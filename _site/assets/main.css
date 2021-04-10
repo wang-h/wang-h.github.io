@@ -61,8 +61,8 @@ h4 { font-size: 1.333rem; line-height: 1.5996rem; }
 @media (max-width: 45em) { h4 { font-size: 1.233rem; line-height: 1.7329rem; } }
 
 /** Links */
-a { color: #d33682; text-decoration: none; }
-a:visited { color: #c42b75; }
+a { color: #008080; text-decoration: none; }
+a:visited { color: #006767; }
 a:hover { color: #111; text-decoration: underline; }
 
 /** Blockquotes */
@@ -114,9 +114,9 @@ hr { color: #3F3F3F; margin: 50px auto 25px auto; width: 100%; padding-left: 10%
 form input { font-size: 1.15rem; line-height: 1.84rem; color: #3F3F3F; font-family: "Open Sans", sans-serif; background: #fdfdfd; border: 1px solid #3F3F3F; padding: 8.3333333333px; }
 @media (max-width: 75em) { form input { font-size: 1.15rem; line-height: 1.84rem; } }
 @media (max-width: 45em) { form input { font-size: 0.95rem; line-height: 1.84rem; } }
-form input[type=email]:focus { border-color: #d33682; }
+form input[type=email]:focus { border-color: #008080; }
 form input[type=submit]:hover { color: #fdfdfd; background: #3F3F3F; }
-form input[type=submit]:active { background: #d33682; }
+form input[type=submit]:active { background: #008080; }
 
 /** Site header */
 .site-header { border-top: 5px solid #3F3F3F; border-bottom: 1px solid #bfbfbf; position: relative; }
@@ -130,7 +130,7 @@ form input[type=submit]:active { background: #d33682; }
 .site-header .lang-selector .lang a { color: #bfbfbf; }
 .site-header .lang-selector:hover { padding-bottom: 0px; background: #3F3F3F; }
 .site-header .lang-selector:hover .lang:first-child { padding-bottom: 10px; }
-.site-header .lang-selector:hover .lang a { color: #d33682; }
+.site-header .lang-selector:hover .lang a { color: #008080; }
 .site-header .lang-selector:hover .lang a:hover { text-decoration: none; color: #bfbfbf; }
 .site-header .lang-selector:hover .lang:nth-child(n+3) { border-top: 1px solid #bfbfbf; display: block; }
 @media screen and (max-width: 700px) { .site-header .lang-selector { position: relative; left: 0; width: auto; clear: both; margin: -25px -25px; padding: 5px 5px 5px 25px; background: #f2f2f2; text-align: left; font-size: 1.15rem; line-height: 1.84rem; } }
@@ -148,10 +148,10 @@ form input[type=submit]:active { background: #d33682; }
 
 .site-title { display: inline-block; font-size: 26px; font-weight: 300; line-height: 55px; letter-spacing: -1px; margin-bottom: -5px; }
 .site-title, .site-title:visited { color: black; }
-.site-title:hover { text-decoration: none; border-bottom: 5px #d33682 solid; }
+.site-title:hover { text-decoration: none; border-bottom: 5px #008080 solid; }
 .site-title b { font-weight: 600; }
 
-.with-pitch:hover { border-bottom: none; color: #d33682; }
+.with-pitch:hover { border-bottom: none; color: #008080; }
 
 .site-pitch { display: inline-block; clear: both; line-height: 60px; padding-left: 10px; color: #3F3F3F; }
 .site-pitch:before { content: " | "; }
@@ -175,7 +175,7 @@ form input[type=submit]:active { background: #d33682; }
   .site-nav .menu-icon > svg path { fill: black; }
   .site-nav .trigger { clear: both; display: none; }
   .site-nav:hover .trigger { display: block; padding-bottom: 5px; }
-  .site-nav .nav-list .page-link:hover { color: #d33682; }
+  .site-nav .nav-list .page-link:hover { color: #008080; }
   .site-nav .nav-list li:hover { border: none; }
   .site-nav .page-link { display: block; padding: 5px 10px; margin-left: 20px; }
   .site-nav .page-link:not(:last-child) { margin-right: 0; } }
@@ -255,7 +255,7 @@ form input[type=submit]:active { background: #d33682; }
 .with-thumbnail .wrapper { padding-bottom: 25px; padding-top: 25px; margin-bottom: 50px; }
 @media screen and (max-width: 500px) { .with-thumbnail .wrapper { margin: 0px; } }
 
-.post-title { margin-top: 0; color: #d33682; }
+.post-title { margin-top: 0; color: #008080; }
 
 .post-summary { margin-top: 0; }
 
@@ -313,7 +313,7 @@ form input[type=submit]:active { background: #d33682; }
   .contact-list { margin: 0; }
   .user-picture { max-width: 200px; } }
 .msg-404 { margin-bottom: 50px; }
-.msg-404 .title { font-size: 2.941rem; line-height: 3.2351rem; font-family: "Open Sans", sans-serif; color: #d33682; }
+.msg-404 .title { font-size: 2.941rem; line-height: 3.2351rem; font-family: "Open Sans", sans-serif; color: #008080; }
 @media (max-width: 75em) { .msg-404 .title { font-size: 2.441rem; line-height: 2.6851rem; } }
 @media (max-width: 45em) { .msg-404 .title { font-size: 2.148rem; line-height: 2.6851rem; } }
 .msg-404 .description { font-size: 2.111rem; line-height: 2.5332rem; font-family: "PT Serif", serif; }

@@ -22,7 +22,7 @@ plugins:
   - jekyll-remote-theme
 
 # Build settings
-remote_theme: gaalcaras/academic
+remote_theme: wang-h/academic
 
 langs: ["en", "zh"]
 
@@ -32,16 +32,12 @@ title:
   zh: 王 昊
 email: wang-hao@shu.edu.cn
 description:   # this means to ignore newlines until "baseurl:"
-    "Meaningful research, colorful life!" 
-baseurl: "" # the subpath of your site, e.g. /blog
+    "" 
+baseurl: "" # th subpath of your site, e.g. /blog
 url: "http://wang-h.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  wang-h
-linkedin_username:  alveinwang
-curriculum: 
-  name: Curriculum Vitae
-  url: "http://wang-h.github.io"
+github_username:  wang-h 
 
-
+cc: by-nc-nd
 
 # Exclude from processing.
 # The following items will not be processed, by default.
