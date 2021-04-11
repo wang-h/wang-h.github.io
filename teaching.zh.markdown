@@ -18,7 +18,18 @@ lang: zh
 - 2021春季学期: 工程伦理（专业型硕士）
 
 
+## 相关资源 
+### 数据挖掘 （2021春季学期）
+- [Lecture.0][【腾讯文档】Lecture0] 
+- [Lecture.1][【腾讯文档】Lecture1]   
+- [Lecture.2.1～2.4][【腾讯文档】Lecture2.1]   
+- [Lecture.2.5][【腾讯文档】Lecture2.2]   
 
+
+[【腾讯文档】Lecture0]: https://docs.qq.com/pdf/DY29iWkF1TlJyUmdJ
+[【腾讯文档】Lecture1]: https://docs.qq.com/pdf/DY3NGYWVJeVFQSmd2
+[【腾讯文档】Lecture2.1]: https://docs.qq.com/pdf/DY3pKZ3hjZ1hqR2Jp
+[【腾讯文档】Lecture2.2]: https://docs.qq.com/pdf/DY3dKcUVxd0FnRHVJ
 
 
 
