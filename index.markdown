@@ -16,3 +16,10 @@ Welcome to join us!
 欢迎加入我们！
 
 ---
+
+## ZHIFENG Project
+
+目前，我们正在推进知风药物警戒平台建设，欢迎感兴趣的同学加入我们！
+
+ZHIFENG: Adverse Drug Safety Platform
+- [www.zhifeng.cloud](https://www.zhifeng.cloud)
