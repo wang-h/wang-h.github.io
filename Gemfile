@@ -17,7 +17,7 @@ gem "github-pages", "~> 214", group: :jekyll_plugins
 #   gem "jekyll-feed", "~> 0.12"
 # end
 
-gem "jekyll-remote-theme"
+# gem "jekyll-remote-theme"
 
 gem "academic" 
 group :jekyll_pluglins do

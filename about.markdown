@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /en/about/
+permalink: /about/
 lang: en
 ---
 
@@ -21,9 +21,9 @@ School of Computer Engineering and Science,
 
 ### Brief CV
 
-Dr. Hao Wang is an Assistant Professor in the School of Computer Engineering & Science at Shanghai University. He received his Master and PhD degree from Waseda University, Japan in 2014 and 2019, supported by the oversea graduate student project of China Scholarship Council (CSC). He was a research intern in the Microsoft Research Asia (NLC group, 2014), Toshiba R&D Center (Knowledge Media Laboratory, 2015), Nippon Telegraph and Telephone (Communication Research Center, 2017\&2018).  
+Dr Hao Wang is an Assistant Professor in the School of Computer Engineering and Science at Shanghai University. He received his Master and PhD degree from Waseda University, Japan, in 2014 and 2019, supported by the overseas graduate student project of the China Scholarship Council (CSC). He was a research intern in the Microsoft Research Asia (NLC group, 2014), Toshiba R&D Center (Knowledge Media Laboratory, 2015), Nippon Telegraph and Telephone (Communication Research Center, 2017 & 2018).  
 
-His major research interests include text data mining and applications of natural language processing. He has published more than 20 academic papers in the related areas, including prestigious journals and international conferences like COLING, ICONIP, ACM TALLIP. He joined in 2 relevant national research projects as a major participant in recent years. He also served as a reviewer of Natual Language Engineering (NLE), IEEE Access, TALLIP and ACL serial conferences. 
+His primary research interests include text data mining and applications of natural language processing. He has published more than 20 academic papers in the related areas, including prestigious journals and international conferences like COLING, ICONIP, ACM TALLIP. He joined two relevant national research projects as a major participant in recent years. He also served as a Natual Language Engineering (NLE) reviewer, TALLIP, IEEE Access,  and ACL serial conferences. 
 
 ### Research Interests
  

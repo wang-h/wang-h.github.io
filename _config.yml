@@ -18,18 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-plugins:
-  - jekyll-remote-theme
+# plugins:
+#   - jekyll-remote-theme
 
 # Build settings
-remote_theme: wang-h/academic
+# remote_theme:  wang-h/academic
+plugins: ['jekyll-multiple-languages']
+theme:  minima
 
 langs: ["en", "zh"]
+language_default:   'en'
 
-
-title: 
-  en: Hao Wang
-  zh: 王 昊
+title: WANG Hao
 email: wang-hao@shu.edu.cn
 description:   # this means to ignore newlines until "baseurl:"
     "" 
