@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-06-14T17:19:56+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hao WANG</title><subtitle></subtitle><author><name>王 昊</name></author><entry><title type="html">知风药物警戒NLP平台v1.0正式上线</title><link href="http://localhost:4000/progress/update/2021/04/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="知风药物警戒NLP平台v1.0正式上线" /><published>2021-04-10T14:11:41+08:00</published><updated>2021-04-10T14:11:41+08:00</updated><id>http://localhost:4000/progress/update/2021/04/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/progress/update/2021/04/10/welcome-to-jekyll.html">&lt;h2 id=&quot;知风药物警戒nlp平台&quot;&gt;知风药物警戒NLP平台&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-06-14T19:26:14+08:00</updated><id>/feed.xml</id><title type="html">Wang Hao（王 昊）</title><subtitle>Copyright © 2021. All rights reserved.</subtitle><author><name>上海大学计算机工程与科学学院</name></author><entry><title type="html">知风药物警戒NLP平台v1.0正式上线</title><link href="/progress/update/2021/04/10/zhifeng.html" rel="alternate" type="text/html" title="知风药物警戒NLP平台v1.0正式上线" /><published>2021-04-10T14:11:41+08:00</published><updated>2021-04-10T14:11:41+08:00</updated><id>/progress/update/2021/04/10/zhifeng</id><content type="html" xml:base="/progress/update/2021/04/10/zhifeng.html">&lt;h2 id=&quot;知风药物警戒nlp平台&quot;&gt;知风药物警戒NLP平台&lt;/h2&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Adverse Drug Safety NLP Platform&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;面向不良药物的自然语言处理平台&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;——面向不良药物的自然语言处理平台/Adverse Drug Safety NLP Platform&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;药物警戒是预防药物不良反应、保障患者用药安全的重要手段。当前，我国药物警戒工作存在准入壁垒高、专业人才匮乏、文档处理效率低等问题，亟需利用先进的自然语言处理与文本数据挖掘技术，提升文档智能化处理水平。&lt;/p&gt;
 
-&lt;p&gt;本项目聚焦药物警戒不良事件抽取及风险药物识别的迫切需求，专注于面向药物警戒文本处理相关技术研发，尝试利用跨语言、多知识驱动的方法实现药物不良事件抽取。该成果将以“知风”云NLP平台的形式，给予直观展示。“知风”一词来源于孔子《中庸》一篇中的“知风之自”，即君子应知晓风险的来源。本项目受到上海市科委“科技创新行动计划”扬帆计划项目资助。&lt;/p&gt;
+&lt;p&gt;本项目聚焦药物警戒不良事件抽取及风险药物识别的迫切需求，专注于面向药物警戒文本处理相关技术研发，尝试利用跨语言、多知识驱动的方法实现药物不良事件抽取。该成果将以“知风”云NLP平台的形式，予以展示。“知风”一词来源于孔子《中庸》一篇中的“知风之自”，即君子应知晓风险的来源。&lt;/p&gt;
 
-&lt;p&gt;目前，我们正在推进知风药物警戒NLP云平台建设，经过一个多月的开发，目前知风云平台第一版本已经上线🎉🎉🎉，大家可以直接访问 
-&lt;a href=&quot;https://www.zhifeng.cloud&quot;&gt;www.zhifeng.cloud&lt;/a&gt;体验相关功能。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://zhifeng.cloud/img/zhifenghome.png&quot; alt=&quot;ZHIFENG图标&quot; title=&quot;ZHIFENG图标&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;目前版本已经初步实现了以下功能的简单展示，具体如下：&lt;/p&gt;
+&lt;p&gt;目前，知风药物警戒NLP云平台建设正在稳步推进，经过一个多月的开发，目前知风云平台第一版本已经上线🎉🎉🎉，已经基本实现了当初设想demo的部分功能，且支持线上直接演示，大家可以直接访问 
+&lt;a href=&quot;https://www.zhifeng.cloud&quot;&gt;www.zhifeng.cloud&lt;/a&gt;主站体验相关功能。&lt;/p&gt;
+
+&lt;p&gt;例如2021年度国家药监局批准的药品与MAH（上市许可持有人）之间，关系展示如下：
+&lt;img src=&quot;https://zhifeng.cloud/img/demo.png&quot; alt=&quot;药物图谱演示&quot; title=&quot;药物图谱演示&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;目前版本已经初步实现了以下功能的简单展示：&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -31,7 +35,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;尚未完成：&lt;/p&gt;
+&lt;p&gt;当然，还有许多工作其它功能（不仅限于此）尚未完成：&lt;/p&gt;
 
 &lt;ul class=&quot;task-list&quot;&gt;
   &lt;li class=&quot;task-list-item&quot;&gt;
@@ -43,8 +47,19 @@
   &lt;li class=&quot;task-list-item&quot;&gt;
     &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;因果事件抽取&lt;/p&gt;
   &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;人机协同与自动化标注工具&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;等其它功能。&lt;/p&gt;
+&lt;p&gt;这些都离不开参与此项目的研究生和本科生的贡献，在此我对各位同学表示感谢！&lt;/p&gt;
 
-&lt;p&gt;我们欢迎感兴趣的同学加入我们，贡献自己的一份力量！&lt;/p&gt;</content><author><name>王 昊</name></author><category term="progress" /><category term="update" /><summary type="html">知风药物警戒NLP平台 Adverse Drug Safety NLP Platform</summary></entry></feed>
+&lt;p&gt;同时，我们也欢迎更多感兴趣的同学加入我们，贡献自己的一份力量！&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;👇 &lt;strong&gt;&lt;a href=&quot;https://www.zhifeng.cloud/internship&quot;&gt;实习生招聘&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;注&lt;/strong&gt;： 本项目受到上海市科委“科技创新行动计划”扬帆计划项目资助。&lt;/p&gt;</content><author><name>上海大学计算机工程与科学学院</name></author><category term="progress" /><category term="update" /><summary type="html">知风药物警戒NLP平台</summary></entry></feed>

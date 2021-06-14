@@ -25,13 +25,11 @@
 # remote_theme:  wang-h/academic
 
 theme: minima
-description:   # this means to ignore newlines until "baseurl:"
-    "" 
+description:     "Copyright © 2021. All rights reserved." 
 # url: "http://wang-h.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# github: wang-h
-title: Hao WANG
-author: 王 昊
-email: wang-hao@shu.edu.com
+github: wang-h
+title: Wang Hao（王 昊）
+author: 上海大学计算机工程与科学学院
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
