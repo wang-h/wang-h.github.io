@@ -41,7 +41,7 @@ His main research interests include natural language processing and textual data
 ### Research Grants
 - **Shanghai Science and Technology Young Talents Sailing Program in 2021** 
   
-    *“Cross-language and Multi-sources of Knowledge Driven Adverse Event Mining Method for Pharmacovigilance"*，2021～2024 ，PI
+    *“Cross-language and Multi-sources of Knowledge Driven Adverse Event Mining Method for Pharmacovigilance"*, 21YF1413900, 2021～2024, PI
 
 ---
 
