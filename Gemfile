@@ -19,7 +19,8 @@ gem "github-pages", "~> 214", group: :jekyll_plugins
 
 # gem "jekyll-remote-theme"
 
-gem "academic" 
+# gem "academic" 
+gem "minima" 
 group :jekyll_pluglins do
   gem 'jekyll-data'
 end

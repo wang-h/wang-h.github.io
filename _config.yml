@@ -23,22 +23,15 @@
 
 # Build settings
 # remote_theme:  wang-h/academic
-plugins: ['jekyll-multiple-languages']
-theme:  minima
 
-langs: ["en", "zh"]
-language_default:   'en'
-
-title: WANG Hao
-email: wang-hao@shu.edu.cn
+theme: minima
 description:   # this means to ignore newlines until "baseurl:"
     "" 
-baseurl: "" # th subpath of your site, e.g. /blog
-url: "http://wang-h.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  wang-h 
-
-cc: by-nc-nd
-
+# url: "http://wang-h.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# github: wang-h
+title: Hao WANG
+author: 王 昊
+email: wang-hao@shu.edu.com
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

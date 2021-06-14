@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "知风药物警戒NLP平台v1.0正式上线"
 date:   2021-04-10 14:11:41 +0800
-categories: jekyll update
+categories: progress update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+## 知风药物警戒NLP平台
+
+目前，我们正在推进知风药物警戒NLP云平台建设，欢迎感兴趣的同学加入我们！
+
+ZHIFENG.CLOUD: Adverse Drug Safety NLP Platform
+- [www.zhifeng.cloud](https://www.zhifeng.cloud)
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
