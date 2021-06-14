@@ -6,28 +6,47 @@ categories: progress update
 ---
 
 ## 知风药物警戒NLP平台
+---
+**Adverse Drug Safety NLP Platform**
 
-目前，我们正在推进知风药物警戒NLP云平台建设，欢迎感兴趣的同学加入我们！
+**面向不良药物的自然语言处理平台**
 
-ZHIFENG.CLOUD: Adverse Drug Safety NLP Platform
-- [www.zhifeng.cloud](https://www.zhifeng.cloud)
+药物警戒是预防药物不良反应、保障患者用药安全的重要手段。当前，我国药物警戒工作存在准入壁垒高、专业人才匮乏、文档处理效率低等问题，亟需利用先进的自然语言处理与文本数据挖掘技术，提升文档智能化处理水平。
 
-`YEAR-MONTH-DAY-title.MARKUP`
+本项目聚焦药物警戒不良事件抽取及风险药物识别的迫切需求，专注于面向药物警戒文本处理相关技术研发，尝试利用跨语言、多知识驱动的方法实现药物不良事件抽取。该成果将以“知风”云NLP平台的形式，给予直观展示。“知风”一词来源于孔子《中庸》一篇中的“知风之自”，即君子应知晓风险的来源。本项目受到上海市科委“科技创新行动计划”扬帆计划项目资助。
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+目前，我们正在推进知风药物警戒NLP云平台建设，经过一个多月的开发，目前知风云平台第一版本已经上线🎉🎉🎉，大家可以直接访问 
+[www.zhifeng.cloud](https://www.zhifeng.cloud)体验相关功能。
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+目前版本已经初步实现了以下功能的简单展示，具体如下：
+
+
+- ✅[医学领域分词](https://www.zhifeng.cloud/word-segmentation)
+
+- ✅[医学术语提取](https://www.zhifeng.cloud/term-extraction)
+
+- ✅[通用机器翻译](https://www.zhifeng.cloud/machine-translation)
+
+- ✅[医学疾病百科](https://www.zhifeng.cloud/encyclopedia)
+  
+- ✅[药学知识图谱](https://www.zhifeng.cloud/knowledge-graph)
+
+尚未完成：
+
+- [x] [风险事件抽取](https://www.zhifeng.cloud/ade-extraction)
+
+- [x] 跨语言事件检测
+
+- [x] 因果事件抽取
+
+等其它功能。
+
+我们欢迎感兴趣的同学加入我们，贡献自己的一份力量！
+
+
+
+
+

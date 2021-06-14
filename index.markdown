@@ -2,8 +2,7 @@
 ---
 **Welcome to join us!**
 
-We do research mainly on Natural Language Processing and Textual Data Mining. We are actively looking for motivated graduate and undergraduate students working on medical text mining, machine translation and other NLP researches and applications. Please email us with your CV if you are interested.  
-
+We do research mainly on Natural Language Processing and Textual Data Mining. We are actively looking for motivated graduate and undergraduate students working on medical text mining, machine translation and other NLP researches and applications. Please email us with your CV if you are interested. 
 
 
 **欢迎加入我们！**
