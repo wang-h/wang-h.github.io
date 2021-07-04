@@ -5,8 +5,6 @@ date:   2021-07-02 18:21:41 +0900
 categories: progress update
 ---
 
-## 《非监督机器翻译》专题报告会
----
 
 
 7月1日下午，计算机学院学术论坛报告第328期（总第508期）在宝山校区计算机大楼402室通过线上和线下相结合的方式进行，本期报告会邀请了上海交通大学计算机系王瑞副教授，报告的主题是”非监督机器翻译”。
@@ -14,7 +12,7 @@ categories: progress update
 
 
 
-![ZHIFENG图标](https://zhifeng.cloud/img/zhifenghome.png "ZHIFENG图标")
+![报告现场](https://zhifeng.cloud/img/rss/report1.jpg "报告现场")
 图为王瑞老师在做学术报告
 王瑞老师是机器翻译领域杰出的研究者，他于2016年至2020年在日本国立信息与通信技术研究所(NICT)担任研究员(于2020年获得tenure职位)。研究兴趣主要是自然语言处理，尤其是机器翻译领域，有着较高的成就。在ACL、EMNLP、ICLR、AAAI、IJCAI、TPAMI、TASLP等顶级人工智能国际会议和期刊上发表论文40余篇。曾多次获得MT/NLP顶级共享任务的第一名，如WMT-2018、WMT-2019、WMT-2020、CoNLL-2019等。他曾担任ICLR-2021/2022、NAACL-2021和CoNLL-2021的区域主席。上海大学计算机工程与科学学院的王昊老师主持了本次报告会。
 
